@@ -83,8 +83,17 @@ $ weide
 
 否则需要配置环境变量
 
+MacOS下面
+
 ```
 $ export WECHAT_IDE=/Applications/微信web开发者工具0.9.app/
+$ weide
+```
+
+Windows cmd下面
+
+```
+$ set WECHAT_IDE=/Applications/微信web开发者工具0.9.app/
 $ weide
 ```
 
